@@ -8,8 +8,9 @@ public class JSnacks4 {
 		
 		int[] numeri = new int[15];
 		
-		for (int i = 0; i < numeri.length; i++ ) {
-			
+		int somma;
+		for (int i = 0; i < numeri.length; i+=2 ) {
+			System.out.println(i);
 			
 		}
 
